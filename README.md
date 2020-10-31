@@ -13,5 +13,5 @@ Simple ScreenGrabber. Takes Url and time to screengrab and save to file given a 
 ```
 > 3. run
 ```
- python screenshot.py
+ python app.py
 ```
